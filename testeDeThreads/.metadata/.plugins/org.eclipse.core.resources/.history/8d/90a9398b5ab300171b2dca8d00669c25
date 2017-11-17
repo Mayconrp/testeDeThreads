@@ -1,0 +1,11 @@
+package br.maycon;
+
+public class Pessoas {
+	
+   public static void main(String args[]){
+	   Conta c1 = new Conta("mauricio", "Jurídico");
+	   c1.getStatus();
+	   System.out.println(c1);
+	  
+}
+}

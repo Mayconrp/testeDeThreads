@@ -1,0 +1,9 @@
+package br.maycon;
+
+public class Pessoas {
+   public{
+	
+	  Conta conta = new Conta("mauricio", "Jurídico");
+	  
+}
+}

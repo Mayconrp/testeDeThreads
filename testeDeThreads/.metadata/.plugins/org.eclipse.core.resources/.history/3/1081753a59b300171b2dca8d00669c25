@@ -1,0 +1,10 @@
+package br.maycon;
+
+public class Pessoas {
+	
+   PublicStaticVoidMain(System[]args){
+	
+	  Conta conta = new Conta("mauricio", "Jurídico");
+	  
+}
+}
